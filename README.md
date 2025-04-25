@@ -1,6 +1,6 @@
 # 🧠 REPROMPTS: Rewriting Reality Through Thought
 
-Welcome to **Reprompts** — a rebellion against ordinary thought, a playground of impossible questions, and a challenge to break out of the cage of conventional systems.  
+Welcome to **Reprompts** — a rebellion against ordinary thought, a playground of unrealistic questions, and a challenge to break out of the cage of conventional systems.  
 This is not just a repo. It’s a **movement**. A **mental revolution**.  
 It’s where **new realities are coded**, and the very **fabric of intelligence is questioned**.
 
