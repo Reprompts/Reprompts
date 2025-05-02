@@ -1,4 +1,4 @@
-# 🧠 REPROMPTS: Rewriting Reality Through Thought
+# 🧠 REPROMPTS: Rewriting Reality Through Code
 
 Welcome to **Reprompts** — a rebellion against ordinary thought, a playground of unrealistic questions, and a challenge to break out of the cage of conventional systems.  
 This is not just a repo. It’s a **movement**. A **mental revolution**.  
