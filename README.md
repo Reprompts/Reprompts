@@ -1,15 +1,10 @@
 # 🧠 REPROMPTS: Rewriting Reality Through Code
 
-Welcome to **Reprompts** — a **movement** against ordinary thought, a **playground for boundary-pushing ideas**, and a challenge to **reshape the very foundation of technology**.  
-This isn't just a repo; it's where **intelligence** is **reborn**, and **reality** is **rewritten**.
-
+Welcome to **Reprompts** — a **movement** against ordinary thought, a **playground for boundary-pushing ideas**.
 ---
 
 <div style="background-color:#0D1117; color:#C9D1D9; padding:40px; border-radius:15px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width:800px; margin:auto; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
   <div style="text-align:center;">
-    <blockquote style="font-style:italic; border-left: 4px solid #58A6FF; padding-left:15px; margin:20px auto; max-width:600px;">
-      "Code is like humor. When you have to explain it, it’s bad." – Cory House
-    </blockquote>
     <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="Coding GIF" style="width:100%; max-width:300px; border-radius:10px; margin-top:15px;">
     <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
