@@ -18,80 +18,107 @@ Welcome to **Reprompts** — a **movement** against ordinary thought, a **playgr
 
 ---
 
-## 🚀 What Is Reprompts?
 
-**Reprompts** is a collective of open-source projects, AI/ML models, tools, and frameworks that push the limits of what’s possible.  
-Here, we challenge conventional thinking, build **cutting-edge libraries**, and create **tools that disrupt** traditional AI, Python development, and open-source ecosystems.
+# ⚡ RePromptsHub — Dev-First Python Tools by RePrompts
 
-What you’ll find here:
-
-- 🔁 **Innovative Prompts** that evolve and loop through the limitations of current paradigms  
-- 🧬 **Projects** that aim to break current norms in AI, ML, and Python development  
-- 🌌 **Concepts** that extend where **modern knowledge ends**  
-- 🔮 **Ideas** requiring a new type of intelligence to perceive, implement, and redefine
-
-This is about **transcending the norms**. About **questioning the impossible**. About **rebuilding the future of software development**.
+Welcome to **RePromptsHub** — a growing collection of lightweight, powerful, open-source developer tools and Python libraries crafted by and for developers. All tools are focused on boosting productivity, securing APIs, simplifying prompt generation, and making testing and Git operations visual and effortless.
 
 ---
 
-## 💥 Why This Exists
+## 🌐 Join the Community
 
-Every great innovation begins when someone dares to ask:
+- 🔗 **[LinkedIn Group](https://www.linkedin.com/groups/14631875/)**
+- 🧑‍💻 **[Dev.to](https://dev.to/RePromptsQuest)**
+- 🐦 **[Twitter / X](https://twitter.com/RePromptsQuest)**
+- 🐘 **[Mastodon](https://mastodon.social/@RePromptsQuest)**
 
-> _"What if the existing systems, frameworks, and knowledge itself are flawed?"_
-
-This repo exists to empower:
-- Rebels of the old order  
-- Builders of **open-source tools**  
-- AI/ML enthusiasts who believe in limitless possibilities  
-- Visionaries who are not constrained by today’s thinking  
-- Developers who are ready to **rethink** software, frameworks, and the future
+Let’s collaborate, share ideas, and make dev tooling better — together.
 
 ---
 
-## 🧭 What's Inside
+## 🚀 Featured Projects
 
-- **`theories/`** – Mind-expanding AI/ML and Python development frameworks that challenge current systems  
-- **`models/`** – Beyond IQ, EQ, and traditional AI — models that create intelligence from new dimensions  
-- **`projects/`** – Revolutionary open-source tools, libraries, and concept proofs aimed at modern Python and AI tools  
-- **`questions/`** – Thought-provoking prompts designed to challenge and expand the very idea of **what is possible**  
-- **`manifestos/`** – Declarations meant to reshape existing software ecosystems and redefine what's next
+### 🧱 [`repmt`](https://github.com/reprompts/repmt) — Static Prompt Generator
 
----
+![Downloads](https://static.pepy.tech/badge/repmt/month)  
+Easily extract static prompts from large code repositories. Offline and lightweight. Perfect for researchers and LLM projects.
 
-## 🔥 Who Should Dive In?
-
-- Developers who see code as a medium for **rethinking the impossible**  
-- AI/ML enthusiasts who want to push beyond conventional models  
-- Python experts eager to **build the future** of open-source tools  
-- Those who dare to see beyond **today's systems**  
-- **You** — if you've ever felt the limits of current technology and thought, _"There has to be more."_
+[🔍 View Repository](https://github.com/reprompts/repmt) | [💬 Discussions](https://github.com/reprompts/repmt/discussions)
 
 ---
 
-## 📢 Spread the Word
+### 🛡️ [`fastsecforge`](https://github.com/reprompts/fastsecforge) — Secure FastAPI Boilerplate Generator
 
-Use the hashtag **#Reprompts** to join the revolution.  
-Challenge your peers, share your thoughts, and spark a **new era of intelligent development**.  
-Post a prompt. Build a new model. Break out of the old systems.  
-Let the world know:
+![Downloads](https://static.pepy.tech/badge/fastsecforge/month)  
+CLI-based tool to generate a FastAPI project with built-in security features like JWT, rate-limiting, CORS, headers, and more.
 
-> **“Intelligence is not limited. It is shaped and evolved.”**
+[📦 View Repository](https://github.com/reprompts/fastsecforge) | [💬 Discussions](https://github.com/reprompts/fastsecforge/discussions)
 
 ---
 
-## 📬 Contribute
+### 🔒 [`flasksecforge`](https://github.com/reprompts/flasksecforge) — Secure Flask Boilerplate Generator
 
-This movement isn’t just about thinking; it’s about **doing**.  
-Start an issue. Spark a discussion. Fork the repo.  
-Shape the future of AI, Python, and development with us.
+![Downloads](https://static.pepy.tech/badge/flasksecforge/month)  
+Same as `fastsecforge` but made for Flask — generate secure Flask REST APIs in seconds.
+
+[📦 View Repository](https://github.com/reprompts/flasksecforge) | [💬 Discussions](https://github.com/reprompts/flasksecforge/discussions)
 
 ---
 
-## 🌀 License
+### 🧪 [`pyapptest`](https://github.com/reprompts/pyapptest) — Visual Python API Tester
 
-This repo is open to **all minds**.  
-Use it, remix it, question it, but **never limit it**.  
-Let’s go beyond the known.
+![Downloads](https://static.pepy.tech/badge/pyapptest/month)  
+Streamlit-based UI for testing APIs directly from your project folder. Autodetects endpoints and supports GET/POST/PUT/DELETE testing flows.
 
+[🧪 View Repository](https://github.com/reprompts/pyapptest) | [💬 Discussions](https://github.com/reprompts/pyapptest/discussions)
+
+---
+
+### 🔊 [`pyttsgen`](https://github.com/reprompts/pyttsgen) — Text to Speech Generator
+
+![Downloads](https://static.pepy.tech/badge/pyttsgen/month)  
+Text-to-speech library using Microsoft Edge TTS — produce high-quality speech offline or programmatically.
+
+[🔈 View Repository](https://github.com/reprompts/pyttsgen) | [💬 Discussions](https://github.com/reprompts/pyttsgen/discussions)
+
+---
+
+### 🌱 [`gitstarter`](https://github.com/reprompts/gitstarter) — GitHub Visual CLI
+
+![Downloads](https://static.pepy.tech/badge/gitstarter/month)  
+Use a Streamlit-based interface to visually execute GitHub operations: commits, branches, status, pushes, and more — no command-line needed.
+
+[🔧 View Repository](https://github.com/reprompts/gitstarter) | [💬 Discussions](https://github.com/reprompts/gitstarter/discussions)
+
+---
+
+## 🛠️ More Coming Soon!
+
+RePromptsHub is continuously growing — stay tuned for even more dev-focused libraries and utilities.
+
+---
+
+## 🤝 Contribute
+
+Have ideas? Want to improve existing tools or suggest new ones? Open issues, submit PRs, or just join the conversation.
+
+> 🔗 **All tools are part of the RePrompts developer-first open-source initiative.**  
+> Join us in building tools **by devs, for devs**.
+
+---
+
+## 📦 Install All Tools (Example)
+
+You can install the libraries individually as needed:
+
+```bash
+pip install repmt fastsecforge flasksecforge pyapptest pyttsgen gitstarter
+
+
+
+Made with ❤️ by @reprompts
+
+---
+
+Let me know if you'd like a badge-based grid layout, a dark-mode themed version, or an HTML-exportable version for your GitHub Pages.
 
