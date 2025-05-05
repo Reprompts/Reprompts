@@ -120,5 +120,3 @@ Made with ❤️ by @reprompts
 
 ---
 
-Let me know if you'd like a badge-based grid layout, a dark-mode themed version, or an HTML-exportable version for your GitHub Pages.
-
