@@ -92,7 +92,7 @@ Use a Streamlit-based interface to visually execute GitHub operations: commits, 
 
 ---
 
-### 🌱 [`gitstarter`](https://github.com/reprompts/lightchat) — lightweight GPT-2-based toolkit
+### 🌱 [`lightchat`](https://github.com/reprompts/lightchat) — lightweight GPT-2-based toolkit
 
 ![Downloads](https://static.pepy.tech/badge/lightchat/month)  
 LightChat is a lightweight GPT-2–based toolkit built on top of DistilGPT2. It enables anyone to train, deploy, and interact with a custom chatbot on low‑end devices using simple CLI commands
