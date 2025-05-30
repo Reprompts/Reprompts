@@ -1,6 +1,6 @@
-# 🧠 REPROMPTS: Rewriting Reality Through Code
+# 🧠 REPROMPTS: Committed to uplifting and supporting the next generation of AI and tech learners.
 
-Welcome to **Reprompts** — a **movement** against ordinary thought, a **playground for boundary-pushing ideas**.
+Welcome to **Reprompts** — an initiative dedicated to fostering innovative thinking and advancing cutting-edge ideas in AI and technology.
 ---
 
 <div style="background-color:#0D1117; color:#C9D1D9; padding:40px; border-radius:15px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width:800px; margin:auto; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
@@ -21,7 +21,7 @@ Welcome to **Reprompts** — a **movement** against ordinary thought, a **playgr
 
 # ⚡ RePromptsHub — Dev-First Python Tools by RePrompts
 
-Welcome to **RePromptsHub** — a growing collection of lightweight, powerful, open-source developer tools and Python libraries crafted by and for developers. All tools are focused on boosting productivity, securing APIs, simplifying prompt generation, and making testing and Git operations visual and effortless.
+Welcome to **RePromptsQuest** — a growing collection of lightweight, powerful, open-source developer tools and Python libraries crafted by and for developers. All tools are focused on boosting productivity, securing APIs, simplifying prompt generation, and making testing and Git operations visual and effortless.
 
 ---
 
