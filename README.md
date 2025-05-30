@@ -19,7 +19,7 @@ Welcome to **Reprompts** — an initiative dedicated to fostering innovative thi
 ---
 
 
-# ⚡ RePromptsHub — Dev-First Python Tools by RePrompts
+# ⚡ RePromptsQuest — Dev-First Python Tools by RePrompts
 
 Welcome to **RePromptsQuest** — a growing collection of lightweight, powerful, open-source developer tools and Python libraries crafted by and for developers. All tools are focused on boosting productivity, securing APIs, simplifying prompt generation, and making testing and Git operations visual and effortless.
 
