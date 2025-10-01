@@ -30,7 +30,7 @@ Welcome to **RePromptsQuest**- a growing collection of lightweight, powerful, op
 - **[Medium](https://medium.com/@repromptsquest)**
 - **[Quora](https://www.quora.com/profile/RePromptsQuest/)**
 
-Let’s collaborate, share ideas, and make dev tooling better — together.
+Let’s collaborate, share ideas, and make dev tooling better together.
 
 ---
 
@@ -41,7 +41,7 @@ Link for Projects & Tools: https://github.com/Reprompts/Tools/blob/main/Tools.md
 
 ## 🛠️ More Coming Soon!
 
-RePromptsHub is continuously growing - stay tuned for even more dev-focused libraries and utilities.
+RePromptsQuest is continuously growing - stay tuned for even more dev-focused libraries and utilities.
 
 ---
 
