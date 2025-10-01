@@ -1,4 +1,4 @@
-# 🧠 RePromptsQuest (OkAccess6128 on reddit): Committed to uplifting and supporting the next generation of AI and tech learners.
+# ⚡ RePromptsQuest (OkAccess6128 on reddit): Committed to uplifting and supporting the next generation of AI and tech learners.
 
 ---
 
@@ -16,9 +16,6 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-
-
-# ⚡ RePromptsQuest - Dev-First Python Tools by RePrompts
 
 Welcome to **RePromptsQuest**- a growing collection of lightweight, powerful, open-source developer tools and Python libraries crafted by and for developers. All tools are focused on boosting productivity, securing APIs, simplifying prompt generation, and making testing and Git operations visual and effortless.
 
