@@ -1,7 +1,7 @@
 # 🧠 REPROMPTS: Committed to uplifting and supporting the next generation of AI and tech learners.
 
 Welcome to **Reprompts** - an initiative dedicated to fostering innovative thinking and advancing cutting-edge ideas in AI and technology.
-We're RePromptsQuest (OkAccess6128 on reddit) - sharing insights on technology, science, psychology, and more.
+We're RePromptsQuest (OkAccess6128 on reddit).
 ---
 
 <div style="background-color:#0D1117; color:#C9D1D9; padding:40px; border-radius:15px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width:800px; margin:auto; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
@@ -28,10 +28,10 @@ Welcome to **RePromptsQuest** — a growing collection of lightweight, powerful,
 
 ## 🌐 Join the Community
 
-- 🔗 **[LinkedIn Group](https://www.linkedin.com/groups/14631875/)**
-- 🧑‍💻 **[Dev.to](https://dev.to/RePromptsQuest)**
-- 🐦 **[Twitter / X](https://twitter.com/RePromptsQuest)**
-- 🐘 **[Mastodon](https://mastodon.social/@RePromptsQuest)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/groups/14631875/)**
+- 🧑‍💻 **[Reddit](https://www.reddit.com/user/OkAccess6128/)**
+- 🐦 **[Medium](https://medium.com/@repromptsquest)**
+- 🐘 **[Quora](https://www.quora.com/profile/RePromptsQuest/)**
 
 Let’s collaborate, share ideas, and make dev tooling better — together.
 
