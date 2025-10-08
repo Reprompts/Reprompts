@@ -36,7 +36,7 @@ Let’s collaborate, share ideas, and make dev tooling better together.
 
 ## 🚀 Featured Projects & Tools:
 
-Link for Projects & Tools: https://github.com/Reprompts/Tools/blob/main/Tools.md
+Link for Projects & Tools: https://github.com/Reprompts/Tools/blob/main/README.md
 
 
 ## 🛠️ More Coming Soon!
