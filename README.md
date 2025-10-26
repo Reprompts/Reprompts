@@ -23,7 +23,7 @@ Welcome to **RePromptsQuest**- a growing collection of lightweight, powerful, op
 
 ## 🌐 Our Content Has Been Appeared On Major Platforms
 
-Our content from **RePromptsQuest** (Reddit: [OKAccess6128](https://www.reddit.com/user/OKAccess6128)) has been featured across top media platforms like **MSN**, **Yahoo**, **Bored Panda**, and more. What began as thoughtful Reddit contributions turned into global features highlighting practical insights, habits, and societal trends.
+Our content from **RePromptsQuest** (Reddit: [OKAccess6128](https://www.reddit.com/user/OKAccess6128)) has been appeared across top media platforms like **MSN**, **Yahoo**, **Bored Panda**, and more. What began as thoughtful Reddit contributions turned into global features highlighting practical insights, habits, and societal trends.
 
 ### 🔹 Appeared On
 - **MSN:** [22 societal and scientific trends shaping the next decade](https://www.msn.com/en-us/health/medical/22-societal-and-scientific-trends-that-are-flying-under-the-radar-but-will-dramatically-change-everyones-lives-in-the-next-decade/ar-AA1FDYN3)  
