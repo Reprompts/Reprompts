@@ -1,4 +1,4 @@
-# ⚡ RePromptsQuest (OkAccess6128 on reddit): Committed to uplifting and supporting the next generation of AI and tech learners.
+# ⚡ RePromptsQuest (Ganesh Nalawade) (OkAccess6128 on reddit): Committed to uplifting and supporting the next generation of AI and tech learners.
 
 ---
 
