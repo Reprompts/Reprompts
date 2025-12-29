@@ -21,32 +21,6 @@ Welcome to **RePromptsQuest**- a growing collection of lightweight, powerful, op
 
 ---
 
-## 🌐 Our Content Has Been Appeared On Major Platforms
-
-Our content from **RePromptsQuest** (Reddit: [OKAccess6128](https://www.reddit.com/user/OKAccess6128)) has been appeared across top media platforms like **MSN**, **Yahoo**, **Bored Panda**, and more. What began as thoughtful Reddit contributions turned into global features highlighting practical insights, habits, and societal trends.
-
-### 🔹 Appeared On
-- **MSN:** [22 societal and scientific trends shaping the next decade](https://www.msn.com/en-us/health/medical/22-societal-and-scientific-trends-that-are-flying-under-the-radar-but-will-dramatically-change-everyones-lives-in-the-next-decade/ar-AA1FDYN3)  
-- **The Chive:** [Fun viral contributions](https://thechive.com/humanity/interesting-random/perhaps-i-could-interest-you-in-some-interesting-things-25-photos-2/?utm_postid=5035553&utm_editor=5035553_stephen)  
-- **Pikabu:** [Predictions about society](https://pikabu.ru/story/chto_proizoydet_v_blizhayshie_1015_let_chto_izmenit-chelovechestvo_navsegda_no_o_chem_malo_kto_govorit_12677987)  
-- **BuzzFeed:** [Things that will change society forever](https://www.buzzfeed.com/alicelahoda/things-that-will-change-society-forever-reddit)  
-- **Bored Panda:** [Habits reducing life quality (#20 on list)](https://www.boredpanda.com/habits-reducing-life-quality/)  
-- **Yahoo:** [Habits that destroyed quality of life](https://www.yahoo.com/lifestyle/articles/people-sharing-habits-completely-destroyed-203102726.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKuW3hx58W7mOOXXMbOb9dt09hIiCjFwLAC6aKuKPOBPA_fOP-KZUocIT0_BZAQCdZJmMAkeHA_9Mb9JkByjZjEIqVXhsIsgkTgTkY60c7B_KSCHBs4gCm183RMPFxI5K1aTQKQypf1krJriXeHK5_Jzcx26TBs__cnf6jBZzZil)  
-- **DeMilked:** [Reflections on life lessons](https://www.demilked.com/life-quality-reduced/)  
-- **Inkl:** [100 inspiring facts better than watching the news](https://www.inkl.com/news/100-inspiring-facts-that-are-better-than-watching-the-news)  
-
-### 🔹 Our Approach
-We focus on crafting content that’s:
-- **Practical** — ideas that help people think or act better.  
-- **Meaningful** — rooted in insight, reflection, and curiosity.  
-- **Human-centered** — engaging, relatable, and consistent.  
-
-### 🔹 About RePromptsQuest
-**RePromptsQuest** is evolving into a hub for **curated knowledge, creative prompts, and human-focused insights** — showing that true online influence comes from authenticity, not algorithms.  
-
-**Published by:** [RePromptsQuest](https://github.com/RePromptsQuest)  
-**Reddit:** [OKAccess6128](https://www.reddit.com/user/OKAccess6128)
-
 
 ## 🌐 Join the Community
 
@@ -61,7 +35,7 @@ Let’s collaborate, share ideas, and make dev tooling better together.
 
 ---
 
-## 🚀 Featured Projects & Tools:
+## 🚀 Projects & Tools Built by Ganesh Nalawade:
 
 Link for Projects & Tools: https://github.com/Reprompts/Tools/blob/main/README.md
 
