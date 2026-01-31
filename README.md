@@ -1,4 +1,48 @@
-# ⚡ RePromptsQuest (Ganesh Nalawade) (OkAccess6128 on reddit)
+# RePromptsQuest (Ganesh Nalawade)
+
+
+Welcome to **RePromptsQuest**- a growing collection of lightweight, powerful, open-source developer tools and Python libraries crafted by and for developers. All tools are focused on boosting productivity, securing APIs, simplifying prompt generation, and making testing and Git operations visual and effortless.
+
+---
+
+## Projects & Tools Built by Ganesh Nalawade:
+
+Link for Projects & Tools: https://github.com/Reprompts/Tools/blob/main/README.md
+
+---
+
+## Join the Community
+
+- **[Pypi](https://pypi.org/user/repromptsquest/)**
+- **[Firm](https://www.linkedin.com/company/repromptsquest/)**
+- **[LinkedIn Group](https://www.linkedin.com/groups/14631875/)**
+- **[Reddit](https://www.reddit.com/user/OkAccess6128/)**
+- **[Medium](https://medium.com/@repromptsquest)**
+- **[Quora](https://www.quora.com/profile/RePromptsQuest/)**
+
+Let’s collaborate, share ideas, and make dev tooling better together.
+
+---
+
+## More Coming Soon!
+
+RePromptsQuest is continuously growing - stay tuned for even more dev-focused libraries and utilities.
+
+---
+
+## Contribute
+
+Have ideas? Want to improve existing tools or suggest new ones? Open issues, submit PRs, or just join the conversation.
+
+? **All tools are part of the RePrompts developer-first open-source initiative.**  
+> Join us in building tools **by devs, for devs**.
+
+---
+
+
+Made with ❤️ by @repromptsquest
+
+---
 
 ---
 
@@ -16,47 +60,3 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-
-Welcome to **RePromptsQuest**- a growing collection of lightweight, powerful, open-source developer tools and Python libraries crafted by and for developers. All tools are focused on boosting productivity, securing APIs, simplifying prompt generation, and making testing and Git operations visual and effortless.
-
----
-
-
-## 🌐 Join the Community
-
-- **[Pypi](https://pypi.org/user/repromptsquest/)**
-- **[Firm](https://www.linkedin.com/company/repromptsquest/)**
-- **[LinkedIn Group](https://www.linkedin.com/groups/14631875/)**
-- **[Reddit](https://www.reddit.com/user/OkAccess6128/)**
-- **[Medium](https://medium.com/@repromptsquest)**
-- **[Quora](https://www.quora.com/profile/RePromptsQuest/)**
-
-Let’s collaborate, share ideas, and make dev tooling better together.
-
----
-
-## 🚀 Projects & Tools Built by Ganesh Nalawade:
-
-Link for Projects & Tools: https://github.com/Reprompts/Tools/blob/main/README.md
-
-
-## 🛠️ More Coming Soon!
-
-RePromptsQuest is continuously growing - stay tuned for even more dev-focused libraries and utilities.
-
----
-
-## 🤝 Contribute
-
-Have ideas? Want to improve existing tools or suggest new ones? Open issues, submit PRs, or just join the conversation.
-
-> 🔗 **All tools are part of the RePrompts developer-first open-source initiative.**  
-> Join us in building tools **by devs, for devs**.
-
----
-
-
-Made with ❤️ by @repromptsquest
-
----
-
